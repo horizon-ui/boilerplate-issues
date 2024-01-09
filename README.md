@@ -30,9 +30,9 @@
 Install our product by running either of the following:
 
 - Open the .zip archive file you got when you bought Horizon
-<br />
+&nbsp;
 - Install NodeJS LTS from [NodeJs Official Page](https://nodejs.org/en/) (NOTE: Product only works with LTS version).
-<br />
+&nbsp;
 
 Run in the terminal this command:
 
