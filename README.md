@@ -18,7 +18,9 @@
 
 &nbsp;
 
+<p align="center">
 <a style="display:flex; justify-content: center;" href="https://horizon-ui.com/boilerplate" target="_blank"><img style="border-radius: 10px;" src="https://i.ibb.co/G0xrhsk/horizon-boilerplate-image-readme.png" alt="Horizon UI Free Tailwind CSS Landing Page Kit" /></a>
+</p>
 
 
 &nbsp;
