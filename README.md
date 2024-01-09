@@ -18,8 +18,8 @@
 
 &nbsp;
 
-<p align="center">
-<a style="display:flex; justify-content: center;" href="https://horizon-ui.com/boilerplate" target="_blank"><img style="border-radius: 10px;" src="https://i.ibb.co/G0xrhsk/horizon-boilerplate-image-readme.png" alt="Horizon UI Free Tailwind CSS Landing Page Kit" /></a>
+<p align="center" style="width: 100%;">
+<a style="display:flex; justify-content: center; width: 100%;" href="https://horizon-ui.com/boilerplate" target="_blank"><img style="border-radius: 10px; width: 100%;" src="https://i.ibb.co/G0xrhsk/horizon-boilerplate-image-readme.png" alt="Horizon UI Free Tailwind CSS Landing Page Kit" /></a>
 </p>
 
 
@@ -34,7 +34,7 @@ Install our product by running either of the following:
 - Install NodeJS LTS from [NodeJs Official Page](https://nodejs.org/en/) (NOTE: Product only works with LTS version).
 <br />
 
-Run in terminal this command:
+Run in the terminal this command:
 
 ```
 npm install
@@ -58,7 +58,7 @@ View <a href="https://horizon-ui.com/docs-boilerplate/" target="_blank">full doc
 
 # Example Sections
 
-If you want to get inspiration for your startup project or just show something directly to your clients, you can jump start your development with our pre-built example sections. You will be able to quickly set up the basic structure for your web project.
+If you want to get inspiration for your startup project or just show something directly to your clients, you can jump-start your development with our pre-built example sections. You will be able to quickly set up the basic structure for your web project.
 
  View <a href="https://horizon-ui.com/boilerplate#pages" target="_blank">example sections here</a>
 
@@ -69,22 +69,22 @@ If you want to get inspiration for your startup project or just show something d
 # Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Horizon UI. Here are
-some advices for our users that want to report an issue:
+some advice for our users who want to report an issue:
 
 1. Make sure that you are using the latest version of the Horizon UI Boilerplate. Check the CHANGELOG for your dashboard on our [CHANGE LOG File](https://github.com/horizon-ui/boilerplate-issues/blob/main/CHANGELOG.md).
 <br />
 
-1. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
+1. Providing us with reproducible steps for the issue will shorten the time it takes for it to be fixed.
 <br />
 
 
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+3. Some issues may be browser-specific, so specifying in what browser you encountered the issue might help.
 
 ---
 
 # Community
 
-Connect with the community! Feel free to ask questions, report issues, and meet new people that already use Horizon UI!
+Connect with the community! Feel free to ask questions, report issues, and meet new people who already use Horizon UI!
 
 💬 [Join the #HorizonUI Discord Community!](https://discord.gg/f6tEKFBd4m)
 
