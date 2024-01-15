@@ -94,3 +94,13 @@ Connect with the community! Feel free to ask questions, report issues, and meet 
 ⭐️ [Copyright 2024 Horizon UI](https://www.horizon-ui.com/?ref=readme-horizon)
 
 📄 [Horizon UI License](https://horizon-ui.notion.site/End-User-License-Agreement-8fb09441ea8c4c08b60c37996195a6d5)
+
+
+---
+
+# Credits
+
+Special thanks to the open-source resources that helped us create this awesome boilerplate package, including:
+
+- [NextJS Subscription Payments](https://github.com/vercel/nextjs-subscription-payments)
+- [ChatBot UI by mckaywrigley](https://github.com/mckaywrigley/chatbot-ui)
